@@ -1,4 +1,4 @@
-# Hola, soy Iván Xamarin 👋 👨 • 💻• 👨‍💼
+# Hola, soy Iván Xamarin 👋  • 💻• 👨‍💼
 
 Soy **Ingeniero de software sénior** apasionado por las nuevas tecnologías como **Xamarin**, **Blazor**, **Node.js**, **Arduino**, **Inteligencia Artificial**...
 
